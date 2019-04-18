@@ -1,8 +1,6 @@
 # path_planning
 A path planning algorithm based on RRT implemented using ROS.
 
-distro - indigo <br  />
-
 The algorithm find an optimized path for a one obstacle environment. The visualtization is done in RVIZ and the code is written in C++.  <br  />
 
 The package has two executables: <br  />
