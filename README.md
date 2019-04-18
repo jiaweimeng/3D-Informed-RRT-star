@@ -8,6 +8,10 @@ To make this code run, you need to:
 3. Run env_node (which contains the information about the boundary and obstacles)
 4. Run rrt_node (which contains the 3D Informed RRT* path planner)
 
+RVIZ parameters:  <br  />
+1. Frame_id = "/path_planner"  <br  />
+2. marker_topic = "path_planner_rrt"  <br  />
+
 In the 3D Informed RRT* path planner:
 The new search space is redefined as an oblique cylinder and the top and bottom surfaces of it are ellipses.
 
