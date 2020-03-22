@@ -14,6 +14,14 @@ RVIZ parameters:  <br  />
 
 Once you have successfully run the path planner, the simulation should be like:
 
+<p align="center">
+  <img width="280" height="280" src="https://github.com/newdexterity/Aerial-Grasping-Robot-Hands/blob/master/Media/prototype.png">
+</p>
+
+<p align="center"> 
+  Figure 1. Simulation of 3D Informed RRT star path planner
+</p>
+
 In the 3D Informed RRT* path planner:
 The new search space is redefined as an oblique cylinder and the top and bottom surfaces of it are ellipses.
 
