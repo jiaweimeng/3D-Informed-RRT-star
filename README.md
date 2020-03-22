@@ -12,6 +12,8 @@ RVIZ parameters:  <br  />
 1. Frame_id = "/path_planner"  <br  />
 2. marker_topic = "path_planner_rrt"  <br  />
 
+Once you have successfully run the path planner, the simulation should be like:
+
 In the 3D Informed RRT* path planner:
 The new search space is redefined as an oblique cylinder and the top and bottom surfaces of it are ellipses.
 
