@@ -19,7 +19,7 @@ Once you have successfully run the path planner, the simulation should be like:
 </p>
 
 <p align="center"> 
-  Figure 1. Simulation of 3D Informed RRT star path planner
+  Figure 1. Simulation of 3D Informed RRT star path planner: final path is indicated by blue, start point is indicated by red, goal point is indicated by green, rrt tree is indicated by orange and obstacle is indicated by gray.
 </p>
 
 In the 3D Informed RRT* path planner:
