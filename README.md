@@ -3,10 +3,10 @@
 This repository includes a simulation code for 3D Informed RRT* with redefining the shape of the search space as an oblique cylinder. 
 
 To make this code run, you need to:
-1. Run roscore
-2. Run rviz
-3. Run env_node (which contains the information about the boundary and obstacles)
-4. Run rrt_node (which contains the 3D Informed RRT* path planner)
+1. Run "roscore"
+2. Run "rosrun rviz rviz"
+3. Run "rosrun path planning env_node" (which contains the information about the boundary)
+4. Run "rosrun path planning rrt_node" (which contains the 3D Informed RRT* path planner)
 
 RVIZ parameters:  <br  />
 1. Frame_id = "/path_planner"  <br  />
