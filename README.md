@@ -1,4 +1,4 @@
-# 3D_Informed_RRT_star
+# 3D-Informed-RRT-star
 
 This repository includes a simulation code for 3D Informed RRT* with redefining the shape of the search space as an oblique cylinder. 
 
