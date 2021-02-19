@@ -3,7 +3,7 @@
 ## Bibliography
 If using these datasets, please cite [1]:
 
-J Meng, VM Pawar, S Kay, A Li, “**UAV Path Planning System Based on 3D Informed RRT* for Dynamic Obstacle Avoidance**”. In *2018 IEEE International Conference on Robotics and Biomimetics* (ROBIO), 2018.
+J Meng, VM Pawar, S Kay, A Li, “**UAV Path Planning System Based on 3D Informed RRT* for Dynamic Obstacle Avoidance**”. In *IEEE International Conference on Robotics and Biomimetics* (ROBIO), 2018.
 
 [[PDF here]](https://www.researchgate.net/profile/Jiawei-Meng-4/publication/331866286_UAV_Path_Planning_System_Based_on_3D_Informed_RRT_for_Dynamic_Obstacle_Avoidance/links/5e76c379299bf1892cff0747/UAV-Path-Planning-System-Based-on-3D-Informed-RRT-for-Dynamic-Obstacle-Avoidance.pdf)
 
