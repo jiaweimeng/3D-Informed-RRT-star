@@ -1,5 +1,23 @@
 # 3D-Informed-RRT-star
 
+## Bibliography
+If using these datasets, please cite [1]:
+
+J Meng, VM Pawar, S Kay, A Li, “**UAV Path Planning System Based on 3D Informed RRT* for Dynamic Obstacle Avoidance**”. In *2018 IEEE International Conference on Robotics and Biomimetics* (ROBIO), 2018.
+
+[[PDF here]](https://www.researchgate.net/profile/Jiawei-Meng-4/publication/331866286_UAV_Path_Planning_System_Based_on_3D_Informed_RRT_for_Dynamic_Obstacle_Avoidance/links/5e76c379299bf1892cff0747/UAV-Path-Planning-System-Based-on-3D-Informed-RRT-for-Dynamic-Obstacle-Avoidance.pdf)
+
+```
+@inproceedings{meng2018uav,
+  title={UAV Path Planning System Based on 3D Informed RRT* for Dynamic Obstacle Avoidance},
+  author={Meng, Jiawei and Pawar, Vijay M and Kay, Sebastian and Li, Angran},
+  booktitle={2018 IEEE International Conference on Robotics and Biomimetics (ROBIO)},
+  pages={1653--1658},
+  year={2018},
+  organization={IEEE}
+}
+```
+
 This repository includes a simulation code for 3D Informed RRT* with redefining the shape of the search space as an oblique cylinder. 
 
 To make this code run, you need to:
