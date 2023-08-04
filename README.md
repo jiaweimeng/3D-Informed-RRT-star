@@ -49,3 +49,6 @@ How to define the new search space:
 3. Calculating the largest deviation between the long axis and the points on the existed path. Then, using the distance between the point (with largest deviation to long axis) and the center of the ellipse to define the short axis of the ellipse. 
 
 Finally, with all these information, the new search space can be defined. As far as the author knows, there should be other ways to define the new search space which can make it contain smaller space. Please go for it if you want to think about that!
+
+## LICENSE
+MIT License
